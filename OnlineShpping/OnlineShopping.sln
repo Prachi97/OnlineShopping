@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShpping.API", "OnlineShpping.API\OnlineShpping.API.csproj", "{128DE687-F946-4D27-BD38-53B4019C3633}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShopping.API", "OnlineShpping.API\OnlineShopping.API.csproj", "{128DE687-F946-4D27-BD38-53B4019C3633}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
